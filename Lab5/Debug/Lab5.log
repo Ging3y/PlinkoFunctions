@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Lab5.cpp
+\\mac\home\documents\visual studio 2015\projects\lab5\lab5\lab5.cpp(73): warning C4010: single-line comment contains line-continuation character
+\\mac\home\documents\visual studio 2015\projects\lab5\lab5\lab5.cpp(79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\lab5\lab5\lab5.cpp(118): warning C4552: '>': operator has no effect; expected operator with side-effect
+\\mac\home\documents\visual studio 2015\projects\lab5\lab5\lab5.cpp(168): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\lab5\lab5\lab5.cpp(208): warning C4552: '>': operator has no effect; expected operator with side-effect
+\\mac\home\documents\visual studio 2015\projects\lab5\lab5\lab5.cpp(231): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab5.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Lab5\Debug\Lab5.exe
+  Lab5.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\Lab5\Debug\Lab5.pdb (Full PDB)
