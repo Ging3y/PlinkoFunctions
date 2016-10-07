@@ -53,6 +53,22 @@ int prizeMoney(int slot)
 	return prizeMoney;
 }
 
+int getChoice(int choice)
+{
+	cin >> choice;
+
+	
+	while((cin.fail()))
+	{ 
+		cout << "Thats not a number!";
+		cout << "Choice:";
+		cin >> choice;
+	}
+	
+
+	return choice;
+}
+
 int main()
 {
 
@@ -69,7 +85,7 @@ int main()
 	double chipPos = 0.0;
 	double totalPrizeMoney = 0.0;
 
-	//***Control Panel for board***\\
+	//***Control Panel for board***
 	const int HEIGHT = 13; //Height
 	double chipShift = .5; //Horizontal shift per level the puck can make
 	const double leftCap = 0.0; //Left Bound
@@ -87,7 +103,8 @@ int main()
 		totalPrizeMoney = 0.0;
 
 		cout << MENU;
-		cin >> menuChoice;
+
+		menuChoice = getChoice(menuChoice);
 
 		switch (menuChoice)
 		{

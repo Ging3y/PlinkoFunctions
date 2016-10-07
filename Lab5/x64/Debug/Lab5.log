@@ -1,0 +1,8 @@
+﻿  Lab5.cpp
+\\mac\home\documents\visual studio 2015\projects\lab5\plinkofunctions\lab5\lab5.cpp(95): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\lab5\plinkofunctions\lab5\lab5.cpp(135): warning C4552: '>': operator has no effect; expected operator with side-effect
+\\mac\home\documents\visual studio 2015\projects\lab5\plinkofunctions\lab5\lab5.cpp(185): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+\\mac\home\documents\visual studio 2015\projects\lab5\plinkofunctions\lab5\lab5.cpp(225): warning C4552: '>': operator has no effect; expected operator with side-effect
+\\mac\home\documents\visual studio 2015\projects\lab5\plinkofunctions\lab5\lab5.cpp(248): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab5.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\Lab5\PlinkoFunctions\x64\Debug\Lab5.exe
+  Lab5.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\Lab5\PlinkoFunctions\x64\Debug\Lab5.pdb (Full PDB)
